@@ -1,7 +1,6 @@
-[research](https://www.sabetilab.org/andres-colubri/)
-
-[code](https://github.com/codeanticode)
-
-[trazos](http://trazos.club/)
-
-contact at andrescolubri dot net 
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
