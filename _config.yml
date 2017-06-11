@@ -13,20 +13,25 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title:
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   contact AT andrescolubri DOT net
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: codeanticode
 github_username:  codeanticode
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: disqus_kZ9JvctQk9
 
 # Collections
 collections:
   teaching:
     output: true
-  
 
 # Build settings
 markdown: kramdown
