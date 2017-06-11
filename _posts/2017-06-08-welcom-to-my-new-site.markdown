@@ -6,4 +6,4 @@ categories: updates
 ---
 After a very long time, I finally updated my website (and blog)... and here it is! Well, most of it, at least the basic structure of the site is in place, with a number of sections at the top (about, art, code, etc.) which I hope you find useful to navigate the site.
 
-Many thanks to Chris TT from the Sabeti lab, who pointed me to [Jekyll](http://jekyllrb.com/) as an alternative to more complex content management systems. So far, it has been really convenient to create a simple site where I can show my work and, luckily, to do some blogging as well!
+Many thanks to Chris Tomkins-Tinch, who pointed me to [Jekyll](http://jekyllrb.com/) as an alternative to more complex content management systems. [This post](http://bryancshepherd.com/Setting-up-Bluehost-DNS-for-a-GitHub-Jekyll-blog/) on setting up Bluehost DNS to point to a GitHub Jekyll site was very useful as well. So far, it has been really convenient to create a simple site where I can show my work and, luckily, to do some blogging again!
