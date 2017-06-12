@@ -11,9 +11,11 @@ Current projects
 
 * Differentially Private Marchine Learning
 
-* Unbiased visual exploration of biomedical datasets 
+* Unbiased visual exploration of biomedical data 
 
-* Prognosis models for haemorragic fevers
+* Predictive modeling of infectious disease
+
+* GPU-based visualization of large GIS datasets
 
 Past projects
 =============
