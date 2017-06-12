@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to my new site"
-date:   2017-06-08 17:03:32 -0400
+title:  "Welcome to the new site"
+date:   2017-06-12 09:00:00 -0400
 categories: updates
 comments: false
 ---
