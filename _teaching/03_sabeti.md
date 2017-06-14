@@ -7,7 +7,7 @@ permalink: /teaching/sabeti
 
 I have been very fortunate to work with seveal talented undergraduate students at the [Sabeti Lab](https://www.sabetilab.org/){:target="_blank"} during the past Summers. In all cases, their work resulted in papers that have either being published, or about to be submitted, and other research outcomes (software, data analyses, etc.):
 
-* Summer 2017 (ongoing): Antonio Solano (Northeastern University). Project: mHealth apps, visualization of biomedical data
+* Summer 2017 (ongoing): [Antonio Solano](http://www.antonio-solano.com/) (Northeastern University [IDV program](http://www.northeastern.edu/visualization/)). Project: mHealth apps, visualization of biomedical data
 
 * Summer 2015: Elizabeth Chin (UCLA). Project: [patient prognosis in Lassa fever]({{ site.url }}/assets/teaching/sabeti/elizabeth_chin_poster2.pdf).
 
