@@ -6,9 +6,9 @@ description: Live cinema performance
 permalink: /artprojects/latent
 ---
 
-Latent State was my MFA thesis project at the Design Media Arts department at UCLA, and was completed in 2009. It consisted of a live 
+Latent State was my MFA thesis project at the Design Media Arts department at UCLA, which I completed in 2009. It consisted of a live 
 Audio/Visual (AV) performance revolving around memories of the space shuttle Challenger disaster in 1986. The video record below is from the 
-thesis show at the EDA Gallery at UCLA, May 14th 2009.
+thesis show at the EDA Gallery at UCLA, on May 14th 2009.
 
 <iframe src="https://player.vimeo.com/video/4806038" width="730" height="402" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
