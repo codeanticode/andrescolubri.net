@@ -8,6 +8,11 @@ I make individual and collaborative art projects that rely on computer code, use
 
 In 2009, I received an MFA degree from the [Design Media Arts Department](http://dma.ucla.edu/) at the University of California, Los Angeles. My thesis project was about the practice of live cinema, and the use of different techniques (digital drawing, real-time video) in a performance I created based on memories of the Challenger disaster. The written thesis is available [here]({{ site.url }}/assets/art/colubri-mfa_thesis-ucla.pdf).
 
-[Open this online portfolio]({{ site.url }}/portfolio) for a detailed description of my art projects.
+Follow [this link]({{ site.url }}/portfolio) for an online slideshow of my projects, or check selected projects below:
 
- 
+<ul>
+{% for proj in site.artprojects %}
+  <li><a href="{{ proj.url | prepend: site.baseurl }}">{{ proj.title }}</a>:
+  {{ proj.description }}</li><br>
+{% endfor %}    
+</ul>
