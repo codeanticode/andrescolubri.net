@@ -16,3 +16,8 @@ Follow [this link]({{ site.url }}/portfolio) for an online slideshow of my proje
   {{ proj.description }}</li><br>
 {% endfor %}    
 </ul>
+
+For work-in-progress documentation and experiments, please take a look at my [vimeo](https://vimeo.com/user1182080) and [tumblr](https://codeanticode.tumblr.com/) pages, as well as my [blog](http://andrescolubri.net/).
+
+
+
