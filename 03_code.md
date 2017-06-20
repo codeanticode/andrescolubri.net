@@ -6,7 +6,7 @@ permalink: /code/
 
 I develop visualization and coding tools for scientists, artists, and designers. I use these tools in my own creative work, and because of that, the boundaries between tool development, scientific research, and artistic exploration are often blurred. 
 
-* [Processing for Android](http://android.processing.org/){:target="_blank"}: Support for Android development in Processing 
+* [Processing for Android](http://android.processing.org/){:target="_blank"}: Tools for Android development in Processing 
 
 * [Core Processing development](https://github.com/processing/processing){:target="_blank"}: OpenGL and video libraries
 
