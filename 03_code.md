@@ -22,6 +22,6 @@ I develop visualization and coding tools for scientists, artists, and designers.
 
 * [Moldeo](http://moldeo.org/){:target="_blank"}: Software to create interactive real-time graphics
 
-* [Protein Library](http://protlib.uchicago.edu/){:target="_blank"}: C Library to implement HPC simulations of macromolecules
+* [Protein Library](http://protlib.uchicago.edu/){:target="_blank"}: C Library to implement simulations of macromolecules
 
 For more open source projects, take a look at my [GitHub page](https://github.com/codeanticode){:target="_blank"}, or at my [Sourceforge profile](https://sourceforge.net/u/acolubri/profile/){:target="_blank"} for really old stuff :-) 
