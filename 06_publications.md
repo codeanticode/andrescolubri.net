@@ -6,7 +6,7 @@ permalink: /publications/
 
 Books
 =====
-* Colubri A. Processing for Android. Creating mobile, sensor-aware, and VR applications using Processing. _Apress_. Expected publication date: [July 2017](http://www.apress.com/9781484227183){:target="_blank"}
+* Colubri A. Processing for Android. Creating mobile, sensor-aware, and VR applications using Processing. _Apress_. Expected publication date: [September 2017](http://www.apress.com/9781484227183){:target="_blank"}
 
 Peer-reviewed journals and conferences
 ======================================
