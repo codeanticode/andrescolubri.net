@@ -12,7 +12,7 @@ A really cool thing about his setup is that is was really simply to hook up to. 
 
 For example, in Processing this was quite easy to accomplish using the [Syphon library](https://github.com/Syphon/Processing){:target="_blank"} and a fish eye shader. The outcome of our experiments can be appreciated in the picture below:
 
-![Visual Computing workshop group]({{ site.url }}/assets/posts/hayden-fulldome-processing.jpg)
+![Full dome projection at the Hayden planetarium]({{ site.url }}/assets/posts/hayden-fulldome-processing.jpg)
 
 In terms of the Processing code, the important elements to have are the Syphon server to send the frames over to Blendy Dome, and a offscreen PGraphics surface to render the scene to, so it can be then transformed with the fish eye shader:
 
