@@ -10,8 +10,6 @@ I develop visualization and coding tools for scientists, artists, and designers.
 
 * [Core Processing development](https://github.com/processing/processing){:target="_blank"}: OpenGL and video libraries
 
-* [Prognosis apps](https://play.google.com/store/apps/details?id=org.broadinstitute.ebolacare2){:target="_blank"}: Prototype apps to stratify patient treatment
-
 * [Mirador](https://fathom.info/mirador/){:target="_blank"}: Visual exploration software
 
 * [Andiamo](https://github.com/andiamo/andiamo){:target="_blank"} & [Trazos.club](http://trazos.club/){:target="_blank"}: Live drawing platforms

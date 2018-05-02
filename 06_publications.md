@@ -6,13 +6,18 @@ permalink: /publications/
 
 Books
 =====
-* Colubri A. Processing for Android. Creating mobile, sensor-aware, and VR applications using Processing. _Apress_, 2017. ISBN: 978-1-4842-2718-3. [Book site](http://p5android-book.andrescolubri.net/){:target="_blank"}
+* Colubri A. Processing for Android. Creating mobile, sensor-aware, and VR applications using Processing. _Apress_, 2017. ISBN: 978-1-4842-2718-3. doi: [10.1007/978-1-4842-2719-0](http://doi.org/10.1007/978-1-4842-2719-0){:target="_blank"}
 
-Peer-reviewed journals and conferences
-======================================
-* Guardo R, Colubri A, Dreidemie, C. Integrating spatial earthquake distribution and 3D modelling analysis in a customizable GIS for a new perspective in volcano preliminary imaging: the case study of Mt. Etna. Accepted to the _2017 Congress of the International Association of Volcanology and Chemistry of the Earth's Interior_.
+Preprints
+=========
+* Colubri A, Levine AC, Siakor M, Wolfman V, Hartley M, Sesay T, Felix A, Sabeti PC. Prognostic models for Ebola virus disease derived from data collected at five treatment units in Sierra Leone and Liberia: performance, external validation, and risk visualization. _bioRxiv_ 294587. Latest revision April 27, 2018. doi: [10.1101/294587](https://doi.org/10.1101/294587){:target="_blank"}
 
-* Colubri A, Silver T, Fradet T, Retzepi K, Fry BW, Sabeti PC. Transforming clinical data into actionable Ebola prognosis models. _PLOS Neglected Tropical Diseases_. 10(3): e0004549. doi: [10.1371/journal.pntd.0004549](https://doi.org/10.1371/journal.pntd.0004549){:target="_blank"}
+Peer-reviewed papers
+====================
+* Okokhere P, Colubri A, Azubike C, Iruolagbe C, Osazuwa O, Tabrizi S, et al. Clinical and laboratory predictors of Lassa fever outcome in a dedicated treatment facility in Nigeria: a retrospective, observational cohort study. _The Lancet Infectious Diseases_. Published March 6, 2018. doi: [10.1016/S1473-3099(18)30121-X](https://doi.org/10.1016/S1473-3099(18)30121-X){:target="_blank"}
+
+* Guardo R, Colubri A, Dreidemie, C. Integrating spatial earthquake distribution and 3D modelling analysis in a customizable GIS for a new perspective in volcano preliminary imaging: the case study of Mt. Etna. _2017 Congress of the International Association of Volcanology and Chemistry of the Earth's Interior_.
+* Colubri A, Silver T, Fradet T, Retzepi K, Fry BW, Sabeti PC. Transforming clinical data into actionable Ebola prognosis models. _PLOS Neglected Tropical Diseases_. Published March 18, 2016. doi: [10.1371/journal.pntd.0004549](https://doi.org/10.1371/journal.pntd.0004549){:target="_blank"}
 
 * Gomez AF, Colubri A, Charalambos JP. Shader Programming for Computational Arts and Design - A Comparison between Creative Coding Frameworks. _Proceedings of the 11th International Conference on Computer Graphics Theory and Application_. 2016; 161-168. doi: [10.5220/0005678301610168](https://doi.org/10.5220/0005678301610168){:target="_blank"}
 
@@ -24,7 +29,7 @@ Peer-reviewed journals and conferences
 
 * Colubri A, Fry B. Introducing Processing 2.0, _Proceedings SIGGRAPH '12 ACM SIGGRAPH 2012 Talks_. doi: [10.1145/2343045.2343061](https://doi.org/10.1145/2343045.2343061){:target="_blank"}
 
-* Kim JH, Colubri A. ITCH: Individual Technology/Community Hacking. _Proceedings of the International Symposium on Electronic Arts Ruhr 2010 conference_. 2010; 281-3. [pdf ](http://www.isea2010ruhr.org/files/redaktion/pdf/isea2010_proceedings_p27_kim_colubri.pdf){:target="_blank"}
+* Kim JH, Colubri A. ITCH: Individual Technology/Community Hacking. _Proceedings of the International Symposium on Electronic Arts Ruhr 2010 conference_. 2010; 281-3. [pdf ]({{ site.url }}/assets/art/isea2010_proceedings_itch_kim_colubri.pdf){:target="_blank"}
 
 * DeBartolo J, Colubri A, Jha AK, Fitzgerald JE, Freed KF, Sosnick TR. Mimicking the folding pathway to improve homology-free protein structure prediction. Proceedings of the National Academy of Sciences. 2009;106(10):3734-9. doi: [10.1073/pnas.0811363106](https://doi.org/10.1073/pnas.0811363106){:target="_blank"}
 
