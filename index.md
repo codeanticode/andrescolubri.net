@@ -1,6 +1,7 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
 ---
+
+Hello! My name is Andrés Colubri. I'm a computational scientist in the [Sabeti Lab](https://www.sabetilab.org/){:target="_blank"} at the [Broad Institute](https://www.broadinstitute.org/){:target="_blank"}, and a senior developer in the [Processing project](https://processing.org/){:target="_blank"}.
+
+Here you can find information about my projects in art, code and science, and occasional updates under the blog section.

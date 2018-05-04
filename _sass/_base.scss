@@ -16,3 +16,18 @@ $header:  #1D1425;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
+
+/**
+ * Images
+ */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+/**
+ * Figures
+ */
+figure > img {
+  display: block;
+}
