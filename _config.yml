@@ -13,34 +13,43 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: andrescolubri.net
-author:
-email: contact AT andrescolubri DOT net
-description: > # this means to ignore newlines until "baseurl:"  
-  © 2017 by Andrés Colubri.
-  Content available under Creative Commons <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_black">(BY-NC-SA)</a> unless otherwise noted.
+title:
+author: Andres Colubri
+email: contact@andrescolubri.net
+description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: codeanticode
-github_username:  codeanticode
+github_username: codeanticode
+
+# Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
 
 # Disqus Comments
 disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: http-andrescolubri-net
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: http-andrescolubri-net
 
-# Collections
+# Collections (posts and others)
+collections_dir: collections
 collections:
-  teaching:
+  posts:
     output: true
   artprojects:
     output: true
+  scipublications:
+    output: true
+  sciteaching:
+    output: true
+  artteaching:
+    output: true
 
-
-# Build settings
-markdown: kramdown
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 exclude:

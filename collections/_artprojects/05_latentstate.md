@@ -1,0 +1,23 @@
+---
+layout: page
+title: Latent State (2009)
+banner: /assets/art/banners/latent.jpg
+description: Live cinema performance
+permalink: /artprojects/latent
+---
+
+Latent State was my MFA thesis project at the Design Media Arts department at UCLA, which I completed in 2009. It consisted of a live 
+Audio/Visual (AV) performance revolving around memories of the space shuttle Challenger disaster in 1986. The video record below is from the 
+thesis show at the EDA Gallery at UCLA, on May 14th 2009.
+
+<iframe src="https://player.vimeo.com/video/4806038" width="730" height="402" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+I also performed Latent State at the [Museum of Jurassic Technology](http://mjt.org/){:target="_blank"} in Culver City, also in 2009, and later at the 
+Make Art 2010 Festival in Poitiers, France. [My written thesis](http://andrescolubri.net/assets/art/colubri-mfa_thesis-ucla.pdf){:target="_blank"} investigated 
+the practice of AV performance, and more specifically, that of live cinema, where most video contents in the performance are generated or recorded live.
+
+The process of developing the piece was documented in [this blog](https://naute.wordpress.com/){:target="_blank"}, and parts of the custom software I created for Latent State eventually 
+became the live drawing tool [Andiamo](https://github.com/andiamo/andiamo){:target="_blank"}, which has been used by other performance artists, as seen in the next video, 
+and also served as the basis for [Trazos.club](/artprojects/trazos).
+
+<iframe src="https://player.vimeo.com/video/200751037" width="740" height="417" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
