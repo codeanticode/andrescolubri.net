@@ -28,7 +28,7 @@ I develop software tools for scientists, artists, and designers, and use some th
 
 ### Google Summer of Code
 
-Since 2014, I have mentored students participating in the [Google Summer of Code](https://summerofcode.withgoogle.com/){:target="_blank"} (GSoC) program, under the sponsorship of the [Processing Foundation](https://processingfoundation.org/initiatives/google-summer-of-code){:target="_blank"}:
+Since 2014, I have mentored students participating in the [Google Summer of Code](https://summerofcode.withgoogle.com/){:target="_blank"} (GSoC) program, under the sponsorship of the [Processing Foundation](https://processingfoundation.org/){:target="_blank"}:
 
 * GSoC 2018: [GLSL Editor for PDE](https://summerofcode.withgoogle.com/dashboard/organization/4915113891463168/proposal/5269541785960448/){:target="_blank"} by Izza Tariq
 
