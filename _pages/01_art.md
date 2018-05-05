@@ -4,7 +4,7 @@ title: Art
 permalink: /art/
 ---
 
-I sometimes work on code-based projects that incorporate spontaneous interaction into algorithmic systems.
+My art projects seek to incorporate spontaneous human interaction and intuition into algorithmic systems. I also develop software tools to create code-based artworks.
 
 In 2009, I received an MFA degree from the [Design Media Arts Department](http://dma.ucla.edu/){:target="_blank"} at the University of California, Los Angeles. My thesis project was about the use of digital drawing and real-time video in live performance. The written thesis is available [here]({{ site.url }}/assets/art/colubri-mfa_thesis-ucla.pdf).
 

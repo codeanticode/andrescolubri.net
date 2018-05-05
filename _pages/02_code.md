@@ -4,11 +4,13 @@ title: Code
 permalink: /code/
 ---
 
-I develop software tools for scientists, artists, and designers, and use some those tools in my own creative projects.
+I develop software tools for scientists, artists, and designers, and use some those tools in my own creative projects. Most of my open source projects are hosted on [GitHub](https://github.com/codeanticode){:target="_blank"}, and older projects can still be found on [Sourceforge](https://sourceforge.net/u/acolubri/profile/){:target="_blank"}.
 
 * [Processing for Android](http://android.processing.org/){:target="_blank"}: Tools for Android development in Processing
 
-* [Core Processing development](https://github.com/processing/processing){:target="_blank"}: OpenGL and video libraries
+* [Processing Core](https://github.com/processing/processing){:target="_blank"}: OpenGL and video libraries
+
+* [Mobile Health](https://github.com/broadinstitute/ebola-imc-public){:target="_blank"}: Prognostic models and mobile apps for Ebola Virus Disease
 
 * [Mirador](https://fathom.info/mirador/){:target="_blank"}: Visual exploration software
 

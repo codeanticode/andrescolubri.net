@@ -13,7 +13,7 @@ My original background is in mathematics applied to the simulation of biopolymer
 <ul>
 {% for pub in site.scipublications %}
   <li><a href="{{ pub.url | prepend: site.baseurl }}">{{ pub.title }}</a>. {{ pub.authors }}.
-  <i>{{ pub.journal }}</i>. {{ pub.info }}.</li>
+  <i>{{ pub.journal }}</i>. {{ pub.info }}.</li><br>
 {% endfor %}    
 </ul>
 
