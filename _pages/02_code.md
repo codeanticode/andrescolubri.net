@@ -32,7 +32,7 @@ Since 2014, I have mentored students participating in the [Google Summer of Code
 
 * GSoC 2018: [GLSL Editor for PDE](https://summerofcode.withgoogle.com/dashboard/organization/4915113891463168/proposal/5269541785960448/){:target="_blank"} by Izza Tariq
 
-* GSoC 2017: [Build system migration from Ant to Gradle](https://procandsoc17.wordpress.com/){:target="_blank"} by Rupak Das, and [VR Mode Demo in Processing for Android](https://picorana.github.io/blog){:target="_blank"} by Sarah Di Barolomeo. In this second project, the "official" mentor is [Gottfried Haider](http://ghai.xyz/){:target="_blank"}, and I'm only providing general feedback about the VR library in the Android mode.
+* GSoC 2017: [Build system migration from Ant to Gradle](https://procandsoc17.wordpress.com/){:target="_blank"} by Rupak Das, and [VR Mode Demo in Processing for Android](https://picorana.github.io/blog){:target="_blank"} by Sara Di Barolomeo. In this second project, the "official" mentor is [Gottfried Haider](http://ghai.xyz/){:target="_blank"}, and I'm only providing general feedback about the VR library in the Android mode.
 
 * GSoC 2015: [Enhancements in Processing’s Android mode](http://omerjerk.in/index.php/2015/08/15/gsoc-2015-the-processing-foundation/){:target="_blank"} by Umair Khan.
 
