@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mobile ITCH (2010 - present)
+title: ITCH (2010 - present)
 description: Creative use of mobile platforms
 permalink: /artprojects/itch
 ---
