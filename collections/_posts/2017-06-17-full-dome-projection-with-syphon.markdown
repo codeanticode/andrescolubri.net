@@ -4,15 +4,16 @@ title:  "Full dome projection with Syphon"
 date:   2017-06-17 19:00:00 -0400
 categories: experiments, art, dome projection, processing, syphon
 comments: true
+permalink: /blog/2017/06/17/full_some_projection_with_syphon.html
 ---
 
-This post is actually reporting on something that happened a while ago (in fact, over a year ago, around the time when I unsuccessfully tried to restart my blog), but I think is still worth bringing it up now, as my blog is finally up and running again :-) So back then, Jason Fletcher, Science Visualizer & Live Presenter at the [Charles Hayden Planetarium](https://www.mos.org/planetarium){:target="_blank"} at the Boston Museum of Science and author of [The Full Dome Blog](http://thefulldomeblog.com/){:target="_blank"}, gave myself and a few other lucky fellows a tour of the planetarium and allowed us to play with his real-time setup to project on the dome with a single computer running [Blendy Dome VJ](http://www.blendydomevj.com/){:target="_blank"}. 
+This post is actually reporting on something that happened a while ago (in fact, over a year ago, around the time when I unsuccessfully tried to restart my blog), but I think is still worth bringing it up now, as my blog is finally up and running again :-) So back then, Jason Fletcher, Science Visualizer & Live Presenter at the [Charles Hayden Planetarium](https://www.mos.org/planetarium){:target="_blank"} at the Boston Museum of Science and author of [The Full Dome Blog](http://thefulldomeblog.com/){:target="_blank"}, gave myself and a few other lucky fellows a tour of the planetarium and allowed us to play with his real-time setup to project on the dome with a single computer running [Blendy Dome VJ](http://www.blendydomevj.com/){:target="_blank"}.
 
 A really cool thing about his setup is that is was really simply to hook up to. In essence, all one needs is a software that applies a fish eye projection on the visuals to project onto the dome, and then outputs it through [Syphon](http://www.syphon.v002.info/){:target="_blank"}.
 
 For example, in Processing this was quite easy to accomplish using the [Syphon library](https://github.com/Syphon/Processing){:target="_blank"} and a fish eye shader. The outcome of our experiments can be appreciated in the picture below:
 
-![Full dome projection at the Hayden planetarium]({{ site.url }}/assets/posts/hayden-fulldome-processing.jpg)
+![Full dome projection at the Hayden planetarium]({{ site.url }}/assets/posts/fulldome_syphon/hayden-fulldome-processing.jpg)
 
 In terms of the Processing code, the important elements to have are the Syphon server to send the frames over to Blendy Dome, and a offscreen PGraphics surface to render the scene to, so it can be then transformed with the fish eye shader:
 
@@ -54,12 +55,12 @@ void draw() {
   canvas.rotateX(frameCount * 0.01);
   canvas.rotateY(frameCount * 0.01);  
   canvas.box(100);  
-  canvas.endDraw(); 
-  
+  canvas.endDraw();
+
   // Apply fish eye transformation on offscreen canvas
   shader(fisheye);
   image(canvas, 0, 0, width, height);
-  
+
   // Send over Syphon
   server.sendScreen();
 }  
@@ -81,31 +82,31 @@ const float PI = 3.1415926535;
 
 void main(void) {    
   float apertureHalf = 0.5 * aperture * (PI / 180.0);
-  
+
   // This factor ajusts the coordinates in the case that
   // the aperture angle is less than 180 degrees, in which
   // case the area displayed is not the entire half-sphere.
   float maxFactor = sin(apertureHalf);
-  
+
   // The st factor takes into account the situation when non-pot
   // textures are not supported, so that the maximum texture
   // coordinate to cover the entire image might not be 1.
   vec2 stFactor = vec2(1.0 / abs(texMatrix[0][0]), 1.0 / abs(texMatrix[1][1]));  
   vec2 pos = (2.0 * vertTexCoord.st * stFactor - 1.0);
-  
+
   float l = length(pos);
   if (l > 1.0) {
     gl_FragColor = vec4(0, 0, 0, 1);  
   } else {
     float x = maxFactor * pos.x;
     float y = maxFactor * pos.y;
-    
+
     float n = length(vec2(x, y));
-    
+
     float z = sqrt(1.0 - n * n);
-  
-    float r = atan(n, z) / PI; 
-  
+
+    float r = atan(n, z) / PI;
+
     float phi = atan(y, x);
 
     float u = r * cos(phi) + 0.5;
