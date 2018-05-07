@@ -1,0 +1,29 @@
+# The slider for the "Lassa fever in Nigeria: lessons learnt"
+- selector: lassa_fever_lessons
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/posts/lassa_fever_lessons/1_isth_entrance.jpg
+      # title: Balloons!
+      alt: ISTH's main entrance
+    - src: /assets/posts/lassa_fever_lessons/2_lassa_ward.jpg
+      # title: This slider uses the fade effect
+      alt: Lassa ward building
+    - src: /assets/posts/lassa_fever_lessons/3_ward_staff.jpg
+      # title: Balloons!
+      alt: Staff preparing a Ribavirin shot for a patient
+    - src: /assets/posts/lassa_fever_lessons/4_working.jpg
+      # title: Balloons!
+      alt: Working at the Lassa research lab
+    - src: /assets/posts/lassa_fever_lessons/5_lab_app.jpg
+      # title: Balloons!
+      alt: Discussing the data collection protocols
+    - src: /assets/posts/lassa_fever_lessons/6_lab_app.jpg
+      # title: Balloons!
+      alt: Testing the CommCare lab app
+    - src: /assets/posts/lassa_fever_lessons/7_group.jpg
+      # title: Balloons!
+      alt: "Wearing traditional Nigeran dresses. Right to left: Eghosa Uyige, Kayla Barnes, Ikponmwosa Odia, John Aiyepada, and myself"
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
