@@ -1,0 +1,57 @@
+/**
+ * Images
+ */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+/**
+ * Image + caption
+ */
+img + em { display: block; text-align: center; }
+
+/**
+ * Youtube responsive container, from
+ * https://silvercircle.github.io/2017/10/10/embed-youtube-jekyll/
+ * A similar solution, maybe a little more general:
+ * https://eduardoboucas.com/blog/2016/12/21/responsive-video-embeds-jekyll.html
+ */
+div.ytcontainer {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+iframe.yt {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+// from https://github.com/jekyll/minima
+/**
+ * Wrapper
+ */
+// .wrapper {
+//   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+//   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+//   margin-right: auto;
+//   margin-left: auto;
+//   padding-right: $spacing-unit;
+//   padding-left: $spacing-unit;
+//   @extend %clearfix;
+//
+//   @include media-query($on-laptop) {
+//     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+//     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
