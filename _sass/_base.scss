@@ -1,22 +1,15 @@
 $content-width: 800px;
-$main: #19CCAA;
-$font-style: 'Open Sans', sans-serif;
+$main: #e88a20;
+// $font-style: 'Open Sans', sans-serif;
+$font-style: 'Quattrocento', regular;
 $font-color: #262626;
 $link-color: #425469;
 $link-hover-color: $main;
-$heading-font: 'Muli', sans-serif;
+// $heading-font: 'Muli', sans-serif;
+$heading-font: 'Quattrocento Sans', bold;
 $heading-font-color: #425469;
 $light: #E7EDF4;
-$header:  #1D1425;
-
-// $spacing-unit:     30px !default;
-// $on-laptop:        800px !default;
-//
-// @mixin media-query($device) {
-//   @media screen and (max-width: $device) {
-//     @content;
-//   }
-// }
+$header:  #41344c;
 
 *,
 *::before,
