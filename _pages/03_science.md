@@ -17,7 +17,7 @@ My original background is in mathematics applied to the simulation of biopolymer
 {% endfor %}    
 </ul>
 
-For a complete list of publications, refer to my [Google Scholar profile](https://scholar.google.com/citations?user=wvvJioMAAAAJ&hl=en){:target="_blank"}.
+For a complete list of publications, check my [Google Scholar profile](https://scholar.google.com/citations?user=wvvJioMAAAAJ&hl=en){:target="_blank"}.
 
 ### Teaching and mentoring
 

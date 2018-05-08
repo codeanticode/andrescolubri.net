@@ -8,9 +8,9 @@ I develop software tools for scientists, artists, and designers, and use some th
 
 * [Processing for Android](http://android.processing.org/){:target="_blank"}: Tools for Android development in Processing
 
-* [Processing Core](https://github.com/processing/processing){:target="_blank"}: OpenGL and video libraries
+* [OpenGL](https://github.com/processing/processing/wiki/Advanced-OpenGL){:target="_blank"} and [video](https://github.com/processing/processing-video){:target="_blank"} libraries, [shader API](https://processing.org/tutorials/pshader/){:target="_blank"}: Processing core libraries and APIs for real-time interactive graphics
 
-* [Mobile Health](https://github.com/broadinstitute/ebola-imc-public){:target="_blank"}: Prognostic models and mobile apps for Ebola Virus Disease
+* [Mobile Health](https://github.com/broadinstitute/ebola-imc-public){:target="_blank"}: Prognostic models and mobile apps for care and management of infectious disease patients
 
 * [Mirador](https://fathom.info/mirador/){:target="_blank"}: Visual exploration software
 
@@ -22,7 +22,7 @@ I develop software tools for scientists, artists, and designers, and use some th
 
 * [Moldeo](http://moldeo.org/){:target="_blank"}: Software to create interactive real-time graphics
 
-* [Protein Library](http://protlib.uchicago.edu/){:target="_blank"}: C Library to implement simulations of macromolecules
+* [Protein Library](http://protlib.uchicago.edu/){:target="_blank"}: C library and utilities to implement simulations of macromolecules
 
 ### Programming books
 
@@ -34,7 +34,7 @@ Since 2014, I have mentored students participating in the [Google Summer of Code
 
 * GSoC 2018: [GLSL Editor for PDE](https://summerofcode.withgoogle.com/dashboard/organization/4915113891463168/proposal/5269541785960448/){:target="_blank"} by Izza Tariq
 
-* GSoC 2017: [Build system migration from Ant to Gradle](https://procandsoc17.wordpress.com/){:target="_blank"} by Rupak Das, and [VR Mode Demo in Processing for Android](https://picorana.github.io/blog){:target="_blank"} by Sara Di Barolomeo. In this second project, the "official" mentor is [Gottfried Haider](http://ghai.xyz/){:target="_blank"}, and I'm only providing general feedback about the VR library in the Android mode.
+* GSoC 2017: [Build system migration from Ant to Gradle](https://procandsoc17.wordpress.com/){:target="_blank"} by Rupak Das, and [VR Mode Demo in Processing for Android](https://picorana.github.io/blog){:target="_blank"} by Sara Di Barolomeo (co-mentored with [Gottfried Haider](http://ghai.xyz/){:target="_blank"})
 
 * GSoC 2015: [Enhancements in Processing’s Android mode](http://omerjerk.in/index.php/2015/08/15/gsoc-2015-the-processing-foundation/){:target="_blank"} by Umair Khan.
 
