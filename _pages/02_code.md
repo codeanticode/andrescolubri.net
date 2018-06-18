@@ -4,7 +4,7 @@ title: Code
 permalink: /code/
 ---
 
-I develop software tools for scientists, artists, and designers, and use some those tools in my own creative projects. Most of my open source projects are hosted on [GitHub](https://github.com/codeanticode){:target="_blank"}, and older projects can still be found on [Sourceforge](https://sourceforge.net/u/acolubri/profile/){:target="_blank"}.
+I develop software tools for scientists, artists, and designers, and use some of those tools in my own creative projects. Most of my open source projects are hosted on [GitHub](https://github.com/codeanticode){:target="_blank"}, and older projects can still be found on [Sourceforge](https://sourceforge.net/u/acolubri/profile/){:target="_blank"}.
 
 * [Processing for Android](http://android.processing.org/){:target="_blank"}: Tools for Android development in Processing
 
