@@ -7,7 +7,7 @@ permalink: /teaching/sabeti
 
 I have the opportunity to mentor many talented undergraduate and graduate students at the [Sabeti Lab](https://www.sabetilab.org/){:target="_blank"}:
 
-* Summer 2017 - Spring 2018: [Antonio Solano](http://www.antonio-solano.com/){:target="_blank"} (Northeastern University [IDV program](http://www.northeastern.edu/visualization/){:target="_blank"}). Projects: user study of self-monitoring health apps, [N4X web tool](http://nx4.io/){:target="_blank"} for visualization of multiple sequence alignments.
+* Summer 2017 - Spring 2018: [Antonio Solano](http://www.antonio-solano.com/){:target="_blank"} (Northeastern University [IDV program](http://www.northeastern.edu/visualization/){:target="_blank"}). Projects: user study of self-monitoring health apps, [N4X web tool](http://www.nx4.io/){:target="_blank"} for visualization of multiple sequence alignments.
 
 * Fall 2017 - Spring 2018: Mirai Shah (Harvard Senior Thesis). Project: Mumps at Harvard - Modeling the Spread of Disease on College Campuses.
 
