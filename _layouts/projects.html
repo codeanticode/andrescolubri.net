@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+	{% include header.html %}
+	<main class="portfolio-main">
+		<h2>{{ page.title }}</h2>
+		<article>
+			{{ content }}
+		</article>
+	</main>
+	{% include footer.html %}
+	{% include slider_scripts.html %}
+</body>
+
+</html>
