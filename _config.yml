@@ -38,9 +38,9 @@ disqus:
 # Collections (posts and others)
 collections_dir: collections
 collections:
+  projects:
+    output: true  
   posts:
-    output: true
-  artprojects:
     output: true
   scipublications:
     output: true

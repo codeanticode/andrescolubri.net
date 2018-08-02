@@ -1,8 +1,9 @@
 ---
 layout: page
-title: ITCH (2010 - present)
+title: ITCH
+banner: itch.jpg
 description: Creative use of mobile platforms
-permalink: /artprojects/itch
+permalink: /projects/itch
 ---
 
 Mobile technologies mediate multiple aspects of our lives, from consumption to relationships. Smartphones have dramatically changed, for good and bad, how we interact with each other and with the environment around us. Back in 2010, when many of these changes were quickly becoming apparent, [Jihyun Kim](https://cargocollective.com/jihyunkim){:target="_blank"} and I presented [a paper](http://portfolio.andrescolubri.net/articles/isea2010_proceedings_itch_kim_colubri.pdf){:target="_blank"} at the ISEA conference, proposing a research plan to investigate how users could _by-pass the commercially-approved functions of their phones in order to manifest and perform their subjectivity in everyday life_.

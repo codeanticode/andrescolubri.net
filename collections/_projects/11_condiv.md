@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Convergence-Divergence (2010)
+title: Convergence/Divergence
+banner: condiv.jpg
 description: Visualization of protein folding simulations
-permalink: /artprojects/condiv
+permalink: /projects/condiv
 ---
 
 Convergence-Divergence is a visualization of all the folding simulations I generated during [my research](http://portfolio.andrescolubri.net/articles/jmb2006_intrabasin_colubri.pdf){:target="_blank"}

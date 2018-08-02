@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Latent State (2009)
-banner: /assets/art/banners/latent.jpg
+title: Latent State
+banner: latent.jpg
 description: Live cinema performance
-permalink: /artprojects/latent
+permalink: /projects/latent
 ---
 
 Latent State was my MFA thesis project at the Design Media Arts department at UCLA, which I completed in 2009. It consisted of a live

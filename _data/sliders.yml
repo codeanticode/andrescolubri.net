@@ -27,3 +27,21 @@
   settings:
     height: "'auto'"
     effect: "'fade'"
+
+- selector: molecular_visualization
+  bullets: true
+  captions: false
+  images:
+    - src: http://portfolio.andrescolubri.net/images/1qd62.jpg
+      alt: ISTH's main entrance
+    - src: http://portfolio.andrescolubri.net/images/1a3n.jpg
+      alt: Lassa ward building
+    - src: http://portfolio.andrescolubri.net/images/1ahq1.jpg
+      alt: Staff preparing a Ribavirin shot for a patient
+    - src: http://portfolio.andrescolubri.net/images/1ahq2.jpg
+      alt: Discussing the data collection protocols
+    - src: http://portfolio.andrescolubri.net/images/2gls.jpg
+      alt: Testing the CommCare lab app
+  settings:
+    height: "'auto'"
+    effect: "'fade'"

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Metric Spaces (2015)
+title: Metric Spaces
+banner: metric.jpg
 description: Visualization of search paths in data space
-permalink: /artprojects/metric
+permalink: /projects/metric
 ---
 
 Metric Spaces is a visualization of the search trajectories of users of the visual exploration tool [Mirador](https://fathom.info/mirador/){:target="_blank"}. As the user navigates through the

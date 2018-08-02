@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Crave (2006)
-banner: /assets/art/banners/crave.jpg
+title: Moldeo
+banner: moldeo.jpg
 description: Digital stage design using real-time projections
-permalink: /artprojects/crave
+permalink: /projects/moldeo
 ---
 
 This project consisted in the design of a visual score to project on the stage during the performance of the play [Crave](http://www.alternativateatral.com/obra6203-crave){:target="_blank"}.

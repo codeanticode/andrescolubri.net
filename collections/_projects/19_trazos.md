@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Trazos.club (2016 - present)
+title: Trazos Club
+banner: trazos.jpg
 description: Collaborative live drawing platform
-permalink: /artprojects/trazos
+permalink: /projects/trazos
 ---
 
 [Trazos.club](http://trazos.club/){:target="_blank"} is an online platform for collaborative live drawing, launched in 2016 during the TransPiksel Mexico Festival.

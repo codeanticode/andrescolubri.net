@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Relay (2012)
+title: Relay
+banner: relay.jpg
 description: Participatory AR in public spaces
-permalink: /artprojects/relay
+permalink: /projects/relay
 ---
 
 Relay is a prototype Augmented Reality app about participatory intervention in public spaces. Designated spots in the city with Relay

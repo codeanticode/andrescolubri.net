@@ -59,6 +59,38 @@ time {
 	margin: 0 auto;
 }
 
+/* Portfolio */
+
+.portfolio-image {
+  max-height: 240px;
+  max-width: 240px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Useful ref on Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox */
+
+.portfolio-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.portfolio-element {
+	order: 0;
+	flex-grow: 0;
+	margin: 5px;
+
+}
+
+.portfolio-caption {
+  text-align: center;
+  max-width: 240px;
+}
+
 /* Aside */
 
 aside {
