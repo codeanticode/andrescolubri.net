@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Convergence/Divergence
+title: Convergence / Divergence
 banner: condiv.jpg
 description: Visualization of protein folding simulations
 permalink: /projects/condiv
