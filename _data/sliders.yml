@@ -174,4 +174,21 @@
       alt: Virtual Reality (VR Audioscape by Sara Di Barolomeo)
   settings:
     height: "'auto'"
-    effect: "'fade'"    
+    effect: "'fade'"
+
+- selector: mhealth_lassa
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/posts/lassa_fever_lessons/lassa_ward.jpg
+      alt: Christopher Iruolagbe, one of the clinicians, and myself at ISTH
+    - src: /assets/posts/lassa_fever_lessons/clinical_app.jpg
+      alt: Patient management app
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+
+
+        
+        

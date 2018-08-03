@@ -1,5 +1,0 @@
-Mobile Health
-* [Mobile Health](https://github.com/broadinstitute/ebola-imc-public){:target="_blank"}: Prognostic models and mobile apps for care and management of infectious disease patients
-
-Processing for Android
-* [Processing for Android](http://android.processing.org/){:target="_blank"}: Tools for Android development in Processing
