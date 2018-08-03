@@ -157,3 +157,21 @@
   settings:
     height: "'auto'"
     effect: "'fade'"
+
+- selector: p5android
+  bullets: true
+  captions: true
+  images:
+    - src: http://portfolio.andrescolubri.net/images/p5android-getting_started.gif
+      alt: Processing for Android is easy to use!
+    - src: http://portfolio.andrescolubri.net/images/p5android-wallpapers.jpg
+      alt: Live wallpaper support
+    - src: http://portfolio.andrescolubri.net/images/p5android-multidpi.jpg
+      alt: Multi-DPI support
+    - src: http://portfolio.andrescolubri.net/images/p5android-watchface.jpg
+      alt: Interactive watchfaces
+    - src: http://portfolio.andrescolubri.net/images/p5android-vr.jpg
+      alt: Virtual Reality (VR Audioscape by Sara Di Barolomeo)
+  settings:
+    height: "'auto'"
+    effect: "'fade'"    
