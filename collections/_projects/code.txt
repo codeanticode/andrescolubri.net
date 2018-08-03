@@ -7,9 +7,6 @@ Processing for Android
 Mirador
 * [Mirador](https://fathom.info/mirador/){:target="_blank"}: Visual exploration software
 
-Trazos
-* [Andiamo](https://github.com/andiamo/andiamo){:target="_blank"} & [Trazos.club](http://trazos.club/){:target="_blank"}: Live drawing platforms
-
 Processing 2
 * [OpenGL](https://github.com/processing/processing/wiki/Advanced-OpenGL){:target="_blank"} and [video](https://github.com/processing/processing-video){:target="_blank"} libraries, [shader API](https://processing.org/tutorials/pshader/){:target="_blank"}: Processing core libraries and APIs for real-time interactive graphics
 
