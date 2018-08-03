@@ -119,3 +119,25 @@
   settings:
     height: "'auto'"
     effect: "'fade'"
+
+- selector: endo_corral_augier
+  bullets: true
+  captions: false
+  images:
+    - src: http://portfolio.andrescolubri.net/images/corral_augier_endo1.jpg
+      alt: Corral and Augier's end(O) photo 1 
+    - src: http://portfolio.andrescolubri.net/images/corral_augier_endo2.jpg
+      alt: Corral and Augier's end(O) photo 2
+    - src: http://portfolio.andrescolubri.net/images/corral_augier_endo3.jpg
+      alt: Corral and Augier's end(O) photo 3
+    - src: http://portfolio.andrescolubri.net/images/corral_augier_endo4.jpg
+      alt: Corral and Augier's end(O) photo 4
+    - src: http://portfolio.andrescolubri.net/images/corral_augier_endo5.jpg
+      alt: Corral and Augier's end(O) photo 5      
+    - src: http://portfolio.andrescolubri.net/images/corral_augier_endo6.jpg
+      alt: Corral and Augier's end(O) photo 6
+    - src: http://portfolio.andrescolubri.net/images/corral_augier_endo7.jpg
+      alt: Corral and Augier's end(O) photo 7
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
