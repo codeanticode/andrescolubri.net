@@ -25,3 +25,7 @@ and also served as the basis for [Trazos.club](/projects/trazos).
 <!-- <iframe src="https://player.vimeo.com/video/200751037" width="740" height="417" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/200751037?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+The [Tablet library](http://processing.andrescolubri.net/libraries/tablet/){:target="_blank"} to handle input from Wacom pen digitalizers is another piece of software I create as part of Latent State, which has been useful to other artists afterwards:
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/64723803?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>

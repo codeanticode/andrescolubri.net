@@ -1,14 +1,5 @@
-ID Research
+Mobile Health
 * [Mobile Health](https://github.com/broadinstitute/ebola-imc-public){:target="_blank"}: Prognostic models and mobile apps for care and management of infectious disease patients
 
 Processing for Android
 * [Processing for Android](http://android.processing.org/){:target="_blank"}: Tools for Android development in Processing
-
-Mirador
-* [Mirador](https://fathom.info/mirador/){:target="_blank"}: Visual exploration software
-
-Processing 2
-* [OpenGL](https://github.com/processing/processing/wiki/Advanced-OpenGL){:target="_blank"} and [video](https://github.com/processing/processing-video){:target="_blank"} libraries, [shader API](https://processing.org/tutorials/pshader/){:target="_blank"}: Processing core libraries and APIs for real-time interactive graphics
-
-Syphon
-* [Syphon library](https://github.com/Syphon/Processing){:target="_blank"}: Processing library to use Syphon on Mac

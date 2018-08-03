@@ -141,3 +141,19 @@
   settings:
     height: "'auto'"
     effect: "'fade'"
+
+- selector: acegid_mirador
+  bullets: true
+  captions: false
+  images:
+    - src: http://portfolio.andrescolubri.net/images/mirador-acegid-1.jpg
+      alt: ACEGID training with Mirador
+    - src: http://portfolio.andrescolubri.net/images/mirador-acegid-2.jpg
+      alt: ACEGID training with Mirdor
+    - src: http://portfolio.andrescolubri.net/images/mirador-acegid-3.jpg
+      alt: ACEGID training with Mirador
+    - src: http://portfolio.andrescolubri.net/images/mirador-acegid-4.jpg
+      alt: ACEGID training with Mirador
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
