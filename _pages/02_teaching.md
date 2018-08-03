@@ -6,6 +6,8 @@ permalink: /teaching/
 
 ### Scientific mentoring and teaching
 
+I have taught courses in biology and bioinformatics, and mentored students during summer programs and thesis projects:
+
 <ul>
 {% for course in site.sciteaching %}
   <li><a href="{{ course.url | prepend: site.baseurl }}">{{ course.title }}</a>:

@@ -9,6 +9,7 @@ permalink: /projects/itch
 Mobile technologies mediate multiple aspects of our lives, from consumption to relationships. Smartphones have dramatically changed, for good and bad, how we interact with each other and with the environment around us. Back in 2010, when many of these changes were quickly becoming apparent, [Jihyun Kim](https://cargocollective.com/jihyunkim){:target="_blank"} and I presented [a paper](http://portfolio.andrescolubri.net/articles/isea2010_proceedings_itch_kim_colubri.pdf){:target="_blank"} at the ISEA conference, proposing a research plan to investigate how users could _by-pass the commercially-approved functions of their phones in order to manifest and perform their subjectivity in everyday life_.
 
 <img width="800" src="http://portfolio.andrescolubri.net/images/itch1.jpg" style="background:none; border:none; box-shadow:none"/>
+*A street scene that I found surprising nearly 10 years ago, but now is commonplace.*
 
 The same year, I started working on the [Processing for Android ](http://android.processing.org/){:target="_blank"} project, which has as one of its main goals to make the development of Android apps easier and more accessible to users without technical background.
 
