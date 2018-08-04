@@ -32,8 +32,8 @@
   bullets: true
   captions: false
   images:
-    - src: http://portfolio.andrescolubri.net/images/1qd6.jpg
-      alt: Rendering of protein 1qd62
+    - src: http://portfolio.andrescolubri.net/images/1qd62.jpg
+      alt: Rendering of protein 1qd6
     - src: http://portfolio.andrescolubri.net/images/1a3n.jpg
       alt: Rendering of protein 1a3n
     - src: http://portfolio.andrescolubri.net/images/1ahq1.jpg

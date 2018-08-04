@@ -34,5 +34,5 @@ And below some videos:
 
 GLGraphics and GSVideo eventually became part of the core OpenGL renderer and video library in Processing 2 and 3, and the underlying infraestructure that enabled high-performance video playback and capture in GSVideo evolved into a widely used set of [Java bindings](https://github.com/gstreamer-java/){:target="_blank"} for GStreamer. 
 
-I have compiled a list of projects made with GLGraphics and GSVideo [here](https://gist.github.com/codeanticode/6bc0f45a88ac960417328dd0b38cd204){:target="_blank"}, send me an email if you would like to see project added there!
+I have compiled a list of projects made with GLGraphics and GSVideo [here](https://gist.github.com/codeanticode/6bc0f45a88ac960417328dd0b38cd204){:target="_blank"}, send me an email if you would like to see another project added there!
 
