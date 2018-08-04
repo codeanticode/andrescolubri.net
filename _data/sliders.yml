@@ -171,7 +171,7 @@
     - src: http://portfolio.andrescolubri.net/images/p5android-watchface.jpg
       alt: Interactive watchfaces
     - src: http://portfolio.andrescolubri.net/images/p5android-vr.jpg
-      alt: Virtual Reality (VR Audioscape by Sara Di Barolomeo)
+      alt: Virtual Reality (VR Audioscape by Sara Di Bartolomeo)
   settings:
     height: "'auto'"
     effect: "'fade'"
@@ -187,8 +187,3 @@
   settings:
     height: "'auto'"
     effect: "'fade'"
-
-
-
-        
-        
