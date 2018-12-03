@@ -187,3 +187,19 @@
   settings:
     height: "'auto'"
     effect: "'fade'"
+
+- selector: espacio_de_datos
+  bullets: true
+  captions: true
+  images:
+    - src: http://portfolio.andrescolubri.net/images/espacio_de_datos1.jpg
+      alt: The planetarium of Buenos Aires
+    - src: http://portfolio.andrescolubri.net/images/espacio_de_datos2.jpg
+      alt: Audiences waiting for the show to start
+    - src: http://portfolio.andrescolubri.net/images/espacio_de_datos3.jpg
+      alt: Inside the planetarium
+    - src: http://portfolio.andrescolubri.net/images/espacio_de_datos4.jpg
+      alt: Fulldome program
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
