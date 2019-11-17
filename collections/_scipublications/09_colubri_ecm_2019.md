@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Machine-learning Prognostic Models from the 2014–16 Ebola Outbreak: Data-harmonization Challenges, Validation Strategies, and mHealth Applications"
-journal: EClinicalMedicine, published by the Lancet
+journal: EClinicalMedicine
 info: Published June 22, 2019
 doi: 10.1016/j.eclinm.2019.06.003
 authors: Colubri A, Hartley MA, Siakor M, Wolfman V, Felix A, Sesay T, Shaffer JG, Garry RF, Grant DR, Levine AC, Sabeti PC
