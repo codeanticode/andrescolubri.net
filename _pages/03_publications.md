@@ -4,14 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
-### Programming books
+### Computer programming books
 
 * [Processing for Android: Creating mobile, sensor-aware, and VR applications using Processing]({{ site.url }}/androidbook){:target="_blank"}. _Apress_, 2017. ISBN: 978-1-4842-2718-3.
 
-### Selected publications
+### Selected scientific publications
 
 <ul>
-{% for pub in site.scipublications %}
+{% for pub in site.scipublications reversed %}
   <li><a href="{{ pub.url | prepend: site.baseurl }}">{{ pub.title }}</a>. {{ pub.authors }}.
   <i>{{ pub.journal }}</i>. {{ pub.info }}.</li><br>
 {% endfor %}    
