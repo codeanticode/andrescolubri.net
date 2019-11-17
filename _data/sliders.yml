@@ -203,3 +203,28 @@
   settings:
     height: "'auto'"
     effect: "'fade'"
+
+- selector: visor_colecciones_showcase
+  bullets: true
+  captions: true
+  images:
+    - src: http://portfolio.andrescolubri.net/images/visor-colecciones-flow.jpg
+      alt: Inital flow screen
+    - src: http://portfolio.andrescolubri.net/images/visor-colecciones-selection.jpg
+      alt: Main screen after selecting a document or collection
+    - src: http://portfolio.andrescolubri.net/images/visor-colecciones-path.jpg
+      alt: Building a path through related connections
+    - src: http://portfolio.andrescolubri.net/images/visor-colecciones-info.jpg
+      alt: Showing information for selected collection
+    - src: http://portfolio.andrescolubri.net/images/visor-colecciones-edge.jpg
+      alt: Common tags connecting two collections
+    - src: http://portfolio.andrescolubri.net/images/visor-colecciones-menu.jpg
+      alt: Menu with filter options
+    - src: http://portfolio.andrescolubri.net/images/visor-colecciones-search.jpg
+      alt: Search results
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+
+    
