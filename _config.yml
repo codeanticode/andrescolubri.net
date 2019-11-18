@@ -42,6 +42,8 @@ collections:
     output: true  
   posts:
     output: true
+  artpublications:
+    output: true    
   scipublications:
     output: true
   sciteaching:

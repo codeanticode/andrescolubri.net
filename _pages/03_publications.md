@@ -6,14 +6,13 @@ permalink: /publications/
 
 ### Selected computational art publications
 
-<!-- * [Processing for Android: Creating mobile, sensor-aware, and VR applications using Processing]({{ site.url }}/androidbook){:target="_blank"}. _Apress_, 2017. ISBN: 978-1-4842-2718-3. -->
-
 <ul>
 {% for pub in site.artpublications reversed %}
   <li><a href="{{ pub.url | prepend: site.baseurl }}">{{ pub.title }}</a>. {{ pub.authors }}.
   <i>{{ pub.journal }}</i>. {{ pub.info }}.</li><br>
 {% endfor %}    
 </ul>
+
 
 ### Selected scientific publications
 
