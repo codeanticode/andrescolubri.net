@@ -5,11 +5,11 @@ description: Augmenting Learning Experiences with Processing and VR/AR/MR, SNUE,
 permalink: /teaching/snue
 ---
 
-During this workshop at the [Seoul National University of Education](http://www.snue.ac.kr/eng/index.do){:target="_blank"}, hosted by professor Woosung Jung, I presented about potential and current uses of VR/AR/MR in education, and gave an overview of the new functionality in Processing for Android to create VR and AR apps: 
+During this workshop for undergraduate students at the [Seoul National University of Education](http://www.snue.ac.kr/eng/index.do){:target="_blank"}, hosted by professor Woosung Jung, I presented about potential and current uses of VR/AR/MR in education, and gave an overview of the new functionality in Processing for Android to create VR and AR apps: 
 
 ![Playing with boxes in AR]({{ site.url }}/assets/teaching/snue/presenting.jpg)
 
-Follow the links below to access the materials discussed during this workshop: 
+Follow the links below to access the materials discussed during the workshop: 
 
 * [Presentation slides](http://portfolio.andrescolubri.net/presentations/xr-slides-snue-2019.zip)
 * [Intro to VR tutorial](https://android.processing.org/tutorials/vr_intro/index.html){:target="_blank"}
