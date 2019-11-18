@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshop for future elementary school teachers
+title: Workshop on VR & AR in education for future elementary school teachers
 description: Augmenting Learning Experiences with Processing and VR/AR/MR, SNUE, Seoul, South Korea (November 2019)
 permalink: /teaching/snue
 ---
