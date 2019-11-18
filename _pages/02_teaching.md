@@ -9,7 +9,7 @@ permalink: /teaching/
 I have taught courses in biology and bioinformatics, and mentored students during summer programs and thesis projects:
 
 <ul>
-{% for course in site.sciteaching %}
+{% for course in site.sciteaching reversed %}
   <li><a href="{{ course.url | prepend: site.baseurl }}">{{ course.title }}</a>:
   {{ course.description }}</li><br>
 {% endfor %}    
@@ -20,7 +20,7 @@ I have taught courses in biology and bioinformatics, and mentored students durin
 I have also taught some workshops on art and code:
 
 <ul>
-{% for course in site.artteaching %}
+{% for course in site.artteaching reversed %}
   <li><a href="{{ course.url | prepend: site.baseurl }}">{{ course.title }}</a>:
   {{ course.description }}</li><br>
 {% endfor %}    
@@ -30,7 +30,9 @@ I have also taught some workshops on art and code:
 
 Since 2014, I have mentored students participating in the [Google Summer of Code](https://summerofcode.withgoogle.com/){:target="_blank"} (GSoC) program, under the sponsorship of the [Processing Foundation](https://processingfoundation.org/){:target="_blank"}:
 
-* GSoC 2018: [GLSL Editor for PDE](https://summerofcode.withgoogle.com/dashboard/project/5269541785960448/details/){:target="_blank"} by [Izza Tariq](https://www.izzatariq.com/){:target="_blank"}, and [ARCore renderer for Processing](https://summerofcode.withgoogle.com/dashboard/project/5548842435477504/details/){:target="_blank"} by [Syam Sundar Kirubakaran](https://syamsundarkirubakaran.github.io/){:target="_blank"}. 
+* GSoC 2019: [Processing video library update](https://www.alexstamm.com/gsoc){:target="_blank"} by [Alex Stamm](https://www.alexstamm.com/){:target="_blank"}. 
+
+* GSoC 2018: [GLSL Editor for PDE](https://www.izzatariq.com/gsoc-18){:target="_blank"}, and [ARCore renderer for Processing](https://syamsundarkirubakaran.github.io/pfinal.html){:target="_blank"} by [Syam Sundar Kirubakaran](https://syamsundarkirubakaran.github.io/){:target="_blank"}. 
 
 * GSoC 2017: [Build system migration from Ant to Gradle](https://procandsoc17.wordpress.com/){:target="_blank"} by [Rupak Das](https://github.com/rupak0577){:target="_blank"}, and [VR Mode Demo in Processing for Android](https://picorana.github.io/blog){:target="_blank"} by [Sara Di Barolomeo](https://picorana.github.io/){:target="_blank"} (co-mentored with [Gottfried Haider](http://ghai.xyz/){:target="_blank"}).
 
