@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-### Selected computational art publications
+### Selected computational arts & design publications
 
 <ul>
 {% for pub in site.artpublications reversed %}
