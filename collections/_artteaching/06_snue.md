@@ -12,6 +12,6 @@ During this workshop at the [Seoul National University of Education](http://www.
 Follow the links below to access the materials discussed during this workshop: 
 
 * [Presentation slides](http://portfolio.andrescolubri.net/presentations/xr-slides-snue-2019.zip)
-* [Processing for Android tutorial on Intro to VR](https://android.processing.org/tutorials/vr_intro/index.html){:target="_blank"}
-* [Processing for Android tutorial on Advanced VR](https://android.processing.org/tutorials/vr_advanced/index.html){:target="_blank"}
-* [Processing for Android tutorial on Intro to AR](https://android.processing.org/tutorials/ar_intro/index.html){:target="_blank"}
+* [Intro to VR tutorial](https://android.processing.org/tutorials/vr_intro/index.html){:target="_blank"}
+* [Advanced VR tutorial](https://android.processing.org/tutorials/vr_advanced/index.html){:target="_blank"}
+* [Intro to AR tutorial](https://android.processing.org/tutorials/ar_intro/index.html){:target="_blank"}
