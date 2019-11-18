@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Introducing Processing 2.0"
-journal: Proceedings of SIGGRAPH 2012
+journal: Proceedings of SIGGRAPH 2012 Conference
 info: 2012
 isbn: 978-1-4503-1435-0/12/0008
 authors: Colubri A, Fry BW
