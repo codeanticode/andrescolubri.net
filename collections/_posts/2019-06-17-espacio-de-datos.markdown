@@ -9,8 +9,8 @@ permalink: /blog/2019/06/17/espacio-de-datos.html
 
 [Espacio de Datos](http://andrescolubri.net/projects/espacio) is a site-specific, immersive audiovisual installation, consisting of a fulldome projection and a spatialized audio track that I created in collaboration with sound artist [Mene Savasta](http://menesavasta.com.ar/) for the [+CODE 2018 festival](http://pluscode.cc/festival-code-2018/) in Buenos Aires, Argentina. It was originally comissioned by Cristian Reynaga and Merlina Rañi, organizers of the festival. Espacio de Datos was also shown at the 2018 edition of the [Domo Lleno festival](http://domolleno.gov.co/node/29) in Bogotá, Colombia, the [9th International Festival of Science Visualization](https://www.ifsv.org/en/index.html) in Tokyo, Japan, in February 2019, and finally at the [Elektra Festival XX](https://www.elektramontreal.ca/festival) in Montréal, Canada, in June 2019. This blog post goes in more depth into the background for this project, and the process we followed to create its images and sounds.
 
-<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/386175070?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<script src="https://player.vimeo.com/api/player.js"></script>
+<!-- <div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/386175070?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<script src="https://player.vimeo.com/api/player.js"></script> -->
 
 ## Data performance
 
@@ -20,8 +20,8 @@ Our motivation for this piece was the emergence of new observational devices (in
 
 For this piece, I converted a custom visualization software I developed earlier for my own scientific research, [Mirador](https://fathom.info/mirador/), into a “data performance” tool. Working with Mirador to explore scientific datasets as part of my research made me consider how data exploration software work as observational devices of large abstract data-spaces. Eventually, I implemented a generative algorithm that turned the visualization interactions in Mirador into “constellations” or "asterisms" in data space. The idea of this data performance was to take the sequence of user operations in Mirador and transform it into a representation of how the user is navigating through “informational space”. Each variable in the dataset becomes a point or “star”, and the distance between each pair of stars is the statistical correlation between the variables, quantified by their [mutual information](https://en.wikipedia.org/wiki/Mutual_information). As the user explores a dataset in Mirador, some "stars" are no longer visible, and new ones come into view, while their distances change based on modifications they apply through Mirador’s UI -- for example, by filtering out some data points based on the range of a variable, which in turn can affect the association between the rest of the variables. The video below shows that process, with Mirador on the left and the resulting "meta-visualization" on the right, with a [fish-eye filter](http://andrescolubri.net/blog/2017/06/17/full_some_projection_with_syphon.html) applied to it for projection on a semispherical dome surface.
 
-<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/386164355?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<script src="https://player.vimeo.com/api/player.js"></script>
+<!-- <div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/386164355?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<script src="https://player.vimeo.com/api/player.js"></script> -->
 
 After observing these "meta visualizations" of search trajectories in dataspace, can we find constellations unique to each dataset and/or user?
 
