@@ -11,6 +11,8 @@ permalink: /blog/2019/06/17/espacio-de-datos.html
 
 {% include vimeo.html id=386175070 %}
 
+### Data performance
+
 Our motivation for this piece was the emergence of new observational devices (interactive visualization, dimensionality reduction) that allow us to explore vast data spaces and discover new information structures. Even though the immediate materiality of data is intangible, we can make it tangible through visualization and sonification. This is why we have decided to draw a parallel with astronomy and the celestial constellations as a representational metaphor for the relationships found in the data. By giving shapes and textures to those relationships, we were able to create the audiovisual landscapes that constitute the experience of our performance.
 
 ![t-SNE plot]({{ site.url }}/assets/posts/espacio_de_datos/tsne.jpg) Dimensionality reduction methods such as t-SNE became very useful tools to visualize large datasets.
@@ -21,6 +23,8 @@ For this piece, I converted a custom visualization software I developed earlier 
 
 After observing these "meta visualizations" of search trajectories in dataspace, can we find constellations unique to each dataset and/or user?
 
+### Sonification
+
 A major challenge was to synchronize a workflow between the two of Mene and I. We did not know each other beforehand, and were separated by thousands of kilometers (Andres in Boston, Mene in Buenos Aires). Through many video calls and exchange of references we agreed on how to approach this project in a “deterritorialized” manner. 
 
 ![Mene Savasta]({{ site.url }}/assets/posts/espacio_de_datos/mene.jpg) Mene performing live.
@@ -28,6 +32,8 @@ A major challenge was to synchronize a workflow between the two of Mene and I. W
 Mene applied an “artisanal” process for the sonification. I provided video renders, and Mene assigned specific sounds to each movement. This was a linear and meticulous work, that allowed Mene to handle the sync at the frame level. As in a Foley exercise, the audio rhythm is proposed by the dynamics of the visible.
 
 The sound palette was informed by the thematic field of the data, which contained anonymized clinical information of patients affected by Lassa fever, a [virual hemorrhagic fever endemic in West Africa](http://andrescolubri.net/blog/2018/05/07/lassa_fever_in_nigeria_lessons_learnt.html). The tragedy of a deadly disease, reduced to indices and values that are then visualized in a cosmic and minimalistic vision. Mene considered these aspects to construct a noisy and glitchy while simultaneously clean palette, where the tragic element is manifested in the dynamic range, such as contrasts and accumulation.
+
+### Visual script
 
 The narrative arc was built around the exploration of a dataset from the initial moment in which the data has no specific form yet, passing through a stage of structure search, and ending with the identification of correlations and the selection of a final hypothesis. The original script for Espacio de Datos included three parts:
 
