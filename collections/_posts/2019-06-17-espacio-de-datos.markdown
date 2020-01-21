@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Espacio de Datos: immersive fulldome visualization"
-date:   2019-06-17 12:00:00 -0400
-categories: experiments, code, processing, android, ios, cross-platform development, api
+title: "Espacio de Datos: fulldome installation"
+date: 2019-06-17 12:00:00 -0400
+categories: fulldome, projection, visualization, sonification, data
 comments: true
 permalink: /blog/2019/06/17/espacio-de-datos.html
 ---
