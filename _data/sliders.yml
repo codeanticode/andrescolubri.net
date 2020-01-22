@@ -226,5 +226,119 @@
     height: "'auto'"
     effect: "'fade'"
 
+- selector: colecciones_timelines
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/posts/colecciones_especiales/histography.jpg
+      alt: A timeline of history - http://histography.io/
+    - src: /assets/posts/colecciones_especiales/wdl-timelines.jpg
+      alt: World Digital Library Timelines - https://www.wdl.org/en/timelines/
+    - src: /assets/posts/colecciones_especiales/blog-calendar.jpg
+      alt: Interactive Blog Calendar - https://eagereyes.org/blog-calendar
+    - src: /assets/posts/colecciones_especiales/summit.jpg
+      alt: Summit on the Summit
+    - src: /assets/posts/colecciones_especiales/annual-reports.jpg
+      alt: Annual Reports - https://fathom.info/reports
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: colecciones_cooper_hewitt
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/posts/colecciones_especiales/cooper-hewitt-1.jpg
+    - src: /assets/posts/colecciones_especiales/cooper-hewitt-2.jpg
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: colecciones_tate_modern
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/posts/colecciones_especiales/tate-modern-1.jpg
+    - src: /assets/posts/colecciones_especiales/tate-modern-2.jpg
+    - src: /assets/posts/colecciones_especiales/tate-modern-3.jpg
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: colecciones_play_search
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/posts/colecciones_especiales/play-search-1.jpg
+      alt: The Naked City by Guy Debord - A psychogeographical map of Paris
+    - src: /assets/posts/colecciones_especiales/play-search-2.jpg
+      alt: Larissa Fassler’s Psychogeographic Cartographies
+    - src: /assets/posts/colecciones_especiales/play-search-3.jpg
+      alt: Information Evolution in Social Networks, Lada Adamic et al.
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: colecciones_initial_design
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/posts/colecciones_especiales/initial-design-1.jpg
+    - src: /assets/posts/colecciones_especiales/initial-design-2.jpg
+    - src: /assets/posts/colecciones_especiales/initial-design-3.jpg
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: colecciones_second_design
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/posts/colecciones_especiales/second-design-1-flow.jpg
+    - src: /assets/posts/colecciones_especiales/second-design-2-path-start.jpg
+    - src: /assets/posts/colecciones_especiales/second-design-3-step1.jpg
+    - src: /assets/posts/colecciones_especiales/second-design-4-path-tags.jpg
+    - src: /assets/posts/colecciones_especiales/second-design-5-path-info.jpg
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: colecciones_ui_design
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/posts/colecciones_especiales/second-design-ui-1-no_menu.jpg
+    - src: /assets/posts/colecciones_especiales/second-design-ui-2-menu.jpg
+    - src: /assets/posts/colecciones_especiales/second-design-ui-3-tipos_doc.jpg
+    - src: /assets/posts/colecciones_especiales/second-design-ui-4-coleccion_info.jpg
+    - src: /assets/posts/colecciones_especiales/second-design-ui-5-tag_selection.jpg
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: colecciones_third_design
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/posts/colecciones_especiales/third-design-1-menu-ppal.jpg
+    - src: /assets/posts/colecciones_especiales/third-design-2-menu-temas.jpg
+    - src: /assets/posts/colecciones_especiales/third-design-3-menu-tipos.jpg
+    - src: /assets/posts/colecciones_especiales/third-design-4-menu-tags.jpg
+    - src: /assets/posts/colecciones_especiales/third-design-5-menu-info.jpg
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: colecciones_responsive
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/posts/colecciones_especiales/desktop-android-ios-cover.jpg
+    - src: /assets/posts/colecciones_especiales/desktop-android-ios-flowing.jpg
+    - src: /assets/posts/colecciones_especiales/desktop-android-ios-searching.jpg
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
 
     
+
