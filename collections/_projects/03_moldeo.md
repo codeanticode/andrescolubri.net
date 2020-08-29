@@ -8,7 +8,7 @@ image_sliders:
   - painterly_rendering
 ---
 
-[Moldeo](http://moldeo.org/){:target="_blank"} is a software for creating interactive real-time graphics, particularly focused on live audio-visual performance. This tool came about from a VJing framework created by [Fabricio Costa](http://efusion.bioscenica.mx/fabricio-costa/){:target="_blank"} in the early 2000s, and I was part of the project in its initial years as Moldeo become a powerful tool for code-based projects that continues to be used to this day. We also collaborated with several artists to create projects using Moldeo in the performing and installation arts:
+[Moldeo](https://moldeo.org/){:target="_blank"} is a software for creating interactive real-time graphics, particularly focused on live audio-visual performance. This tool came about from a VJing framework created by [Fabricio Costa](http://efusion.bioscenica.mx/fabricio-costa/){:target="_blank"} in the early 2000s, and I was part of the project in its initial years as Moldeo become a powerful tool for code-based projects that continues to be used to this day. We also collaborated with several artists to create projects using Moldeo in the performing and installation arts:
 
 
 ### Narciso en Tiempo Real
@@ -19,7 +19,7 @@ This was one of the first uses of Moldeo in the context of live performance, whe
 
 ### Crave
 
-This project consisted in the design of a visual score to project on the stage during the performance of the play [Crave](http://www.alternativateatral.com/obra6203-crave){:target="_blank"}.
+This project consisted in the design of a visual score to project on the stage during the performance of the play [Crave](https://www.alternativateatral.com/obra6203-crave){:target="_blank"}.
 This production of Crave, including the live projections, remained on the billboard from 2006 until 2009. A video excerpt is available below:
 
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/13509000?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>

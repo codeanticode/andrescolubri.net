@@ -5,7 +5,7 @@ description: Post-graduate course at the Universidad Nacional de las Artes, Buen
 permalink: /teaching/una
 ---
 
-During the Fall of 2009, I taught a post-graduate course at the [Universidad Nacional de las Artes](http://una.edu.ar/){:target="_blank"} (UNA), in Buenos Aires, Argentina (back then called Instituto Universitario Nacional de las Artes or IUNA). This course, named Mathematics Applied to Digital Arts, had as a goal to provide mathematical concepts and techniques needed to work with computer code and electronics.
+During the Fall of 2009, I taught a post-graduate course at the [Universidad Nacional de las Artes](https://una.edu.ar/){:target="_blank"} (UNA), in Buenos Aires, Argentina (back then called Instituto Universitario Nacional de las Artes or IUNA). This course, named Mathematics Applied to Digital Arts, had as a goal to provide mathematical concepts and techniques needed to work with computer code and electronics.
 
 ![Output of a few student projects]({{ site.url }}/assets/teaching/una/mat_arte/ejercicios.png)
 

@@ -5,7 +5,7 @@ description: Visual Computing in the Arts and Sciences, CCEBA, Buenos Aires, Arg
 permalink: /teaching/cceba
 ---
 
-This was a 3-day workshop at the [Spain Cultural Center in Buenos Aires](http://www.cceba.org.ar/){:target="_blank"}, hosted by [Emiliano Causa](http://www.emilianocausa.com.ar/){:target="_blank"}. 
+This was a 3-day workshop at the [Spain Cultural Center in Buenos Aires](https://www.cceba.org.ar/){:target="_blank"}, hosted by [Emiliano Causa](https://www.emilianocausa.com.ar/){:target="_blank"}. 
 
 ![Visual Computing workshop group]({{ site.url }}/assets/teaching/cceba/group.jpg)
 

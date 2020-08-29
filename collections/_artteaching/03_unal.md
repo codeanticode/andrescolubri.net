@@ -9,9 +9,9 @@ I have been working with profesor Jean Pierre Charalambos at the [Department of 
 
 * [Introduction to Visual Computing](https://visualcomputing.github.io/Introduction/#/1){:target="_blank"}
 * [Introduction to Git](https://visualcomputing.github.io/git/#/1){:target="_blank"}
-* [Cognitive Aspects of Visual Computing](http://visualcomputing.github.io/Cognitive/#/1){:target="_blank"}
+* [Cognitive Aspects of Visual Computing](https://visualcomputing.github.io/Cognitive/#/1){:target="_blank"}
 * [Geometry transformations](https://visualcomputing.github.io/Transformations/#/1){:target="_blank"}
 * [Representation with polygonal meshes](https://visualcomputing.github.io/representation/#/1){:target="_blank"}
 * [Colors](https://visualcomputing.github.io/colors/#/1){:target="_blank"}
 * [Curves](https://visualcomputing.github.io/Curves/#/1){:target="_blank"}
-* [GLSL shaders](http://visualcomputing.github.io/Shaders/#/1){:target="_blank"}
+* [GLSL shaders](https://visualcomputing.github.io/Shaders/#/1){:target="_blank"}

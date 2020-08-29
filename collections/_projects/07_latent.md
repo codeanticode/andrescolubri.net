@@ -14,7 +14,7 @@ thesis show at the EDA Gallery at UCLA, on May 14th 2009.
 
 <div style="padding:55% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/4806038?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-I also performed Latent State at the [Museum of Jurassic Technology](http://mjt.org/){:target="_blank"} in Culver City, also in 2009, and later at the
+I also performed Latent State at the [Museum of Jurassic Technology](https://mjt.org/){:target="_blank"} in Culver City, also in 2009, and later at the
 Make Art 2010 Festival in Poitiers, France. [My written thesis]({{ site.url }}/assets/publications/colubri-mfa_thesis-ucla.pdf){:target="_blank"} investigated
 the practice of AV performance, and more specifically, that of live cinema, where most video contents in the performance are generated or recorded live.
 
@@ -26,6 +26,6 @@ and also served as the basis for [Trazos.club](/projects/trazos).
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/200751037?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-The [Tablet library](http://processing.andrescolubri.net/libraries/tablet/){:target="_blank"} to handle input from Wacom pen digitalizers is another piece of software I create as part of Latent State, which has been useful to other artists afterwards:
+The [Tablet library](https://processing.andrescolubri.net/libraries/tablet/){:target="_blank"} to handle input from Wacom pen digitalizers is another piece of software I create as part of Latent State, which has been useful to other artists afterwards:
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/64723803?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
