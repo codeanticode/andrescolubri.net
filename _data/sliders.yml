@@ -50,11 +50,11 @@
   bullets: true
   captions: false
   images:
-    - src: http://portfolio.andrescolubri.net/images/landscape1.jpg
+    - src: https://portfolio.andrescolubri.net/images/landscape1.jpg
       alt: Original image
-    - src: http://portfolio.andrescolubri.net/images/landscape1p1.jpg
+    - src: https://portfolio.andrescolubri.net/images/landscape1p1.jpg
       alt: Painterly shader applied on the image
-    - src: http://portfolio.andrescolubri.net/images/landscape1p2.jpg
+    - src: https://portfolio.andrescolubri.net/images/landscape1p2.jpg
       alt: Painterly shader applied on the image with longer particle trails
   settings:
     height: "'auto'"
@@ -64,41 +64,41 @@
   bullets: true
   captions: true
   images:
-    - src: http://portfolio.andrescolubri.net/images/AmnonOwed-GTS-GLSL_Heightmap01.jpg
+    - src: https://portfolio.andrescolubri.net/images/AmnonOwed-GTS-GLSL_Heightmap01.jpg
       alt: GLSL heightmap by Amon Owed   
-    - src: http://portfolio.andrescolubri.net/images/Chronograph.jpg
+    - src: https://portfolio.andrescolubri.net/images/Chronograph.jpg
       alt: Chronograph by Casey Reas and Tal Rosner 
-    - src: http://portfolio.andrescolubri.net/images/Einaudi_visuals.jpg
+    - src: https://portfolio.andrescolubri.net/images/Einaudi_visuals.jpg
       alt: Visuals for Ludovico Einaudi's european tour by Matteo Ferroni and Arturo Reategui Papaffava
-    - src: http://portfolio.andrescolubri.net/images/cascade_closeup.png
+    - src: https://portfolio.andrescolubri.net/images/cascade_closeup.png
       alt: Cascade by Jer Thorp & NYT Labs    
-    - src: http://portfolio.andrescolubri.net/images/fusion.jpg
+    - src: https://portfolio.andrescolubri.net/images/fusion.jpg
       alt: From the Fusion series by Dominik Strzelec
-    - src: http://portfolio.andrescolubri.net/images/generating_Utopia.jpg
+    - src: https://portfolio.andrescolubri.net/images/generating_Utopia.jpg
       alt: Generating Utopia by Stefan Wagner
-    - src: http://portfolio.andrescolubri.net/images/generative_portraits_albiac2.jpg
+    - src: https://portfolio.andrescolubri.net/images/generative_portraits_albiac2.jpg
       alt: Generative Portraits by Sergio Albiac
-    - src: http://portfolio.andrescolubri.net/images/interactive_spine.jpg
+    - src: https://portfolio.andrescolubri.net/images/interactive_spine.jpg
       alt: Spontech Interactive Spine by Design and Systems
-    - src: http://portfolio.andrescolubri.net/images/justcause2.jpg
+    - src: https://portfolio.andrescolubri.net/images/justcause2.jpg
       alt: Just Cause 2 visualization by Jim Blackhurst and Square-Enix
-    - src: http://portfolio.andrescolubri.net/images/life_in_a_day.jpg
+    - src: https://portfolio.andrescolubri.net/images/life_in_a_day.jpg
       alt: Life in a Day touchscreen gallery by Google Data Arts Team 
-    - src: http://portfolio.andrescolubri.net/images/marius.jpg
+    - src: https://portfolio.andrescolubri.net/images/marius.jpg
       alt: From ModelBuilder by Marius Watz
-    - src: http://portfolio.andrescolubri.net/images/metallics_trumpeter_0_W2000.jpg
+    - src: https://portfolio.andrescolubri.net/images/metallics_trumpeter_0_W2000.jpg
       alt: Metallics by thirst
-    - src: http://portfolio.andrescolubri.net/images/montblanc5.jpg
+    - src: https://portfolio.andrescolubri.net/images/montblanc5.jpg
       alt: Montblanc Generative Artworks by onformative
-    - src: http://portfolio.andrescolubri.net/images/nike_store.jpg
+    - src: https://portfolio.andrescolubri.net/images/nike_store.jpg
       alt: Turin Nike Store by ToDo   
-    - src: http://portfolio.andrescolubri.net/images/performer.jpg
+    - src: https://portfolio.andrescolubri.net/images/performer.jpg
       alt: Performer by Adam Frank
-    - src: http://portfolio.andrescolubri.net/images/the_creators.jpg
+    - src: https://portfolio.andrescolubri.net/images/the_creators.jpg
       alt: The creators by Constanza Casas, Mark Mitchell and Pieter Steyaert
-    - src: http://portfolio.andrescolubri.net/images/type_exp.jpg
+    - src: https://portfolio.andrescolubri.net/images/type_exp.jpg
       alt: Type Experiments by Guillaume Massol
-    - src: http://portfolio.andrescolubri.net/images/unfolding-label.jpg    
+    - src: https://portfolio.andrescolubri.net/images/unfolding-label.jpg    
       alt: Unfolding library by Till Nagel
   settings:
     height: "'auto'"
@@ -108,13 +108,13 @@
   bullets: true
   captions: false
   images:
-    - src: http://portfolio.andrescolubri.net/images/FLUflux0.jpg
+    - src: https://portfolio.andrescolubri.net/images/FLUflux0.jpg
       alt: FLUflux screenshot 1 
-    - src: http://portfolio.andrescolubri.net/images/FLUflux1.jpg
+    - src: https://portfolio.andrescolubri.net/images/FLUflux1.jpg
       alt: FLUflux screenshot 2
-    - src: http://portfolio.andrescolubri.net/images/FLUflux2.jpg
+    - src: https://portfolio.andrescolubri.net/images/FLUflux2.jpg
       alt: FLUflux screenshot 3
-    - src: http://portfolio.andrescolubri.net/images/FLUflux3.jpg
+    - src: https://portfolio.andrescolubri.net/images/FLUflux3.jpg
       alt: FLUflux screenshot 4
   settings:
     height: "'auto'"
@@ -124,19 +124,19 @@
   bullets: true
   captions: false
   images:
-    - src: http://portfolio.andrescolubri.net/images/corral_augier_endo1.jpg
+    - src: https://portfolio.andrescolubri.net/images/corral_augier_endo1.jpg
       alt: Corral and Augier's end(O) photo 1 
-    - src: http://portfolio.andrescolubri.net/images/corral_augier_endo2.jpg
+    - src: https://portfolio.andrescolubri.net/images/corral_augier_endo2.jpg
       alt: Corral and Augier's end(O) photo 2
-    - src: http://portfolio.andrescolubri.net/images/corral_augier_endo3.jpg
+    - src: https://portfolio.andrescolubri.net/images/corral_augier_endo3.jpg
       alt: Corral and Augier's end(O) photo 3
-    - src: http://portfolio.andrescolubri.net/images/corral_augier_endo4.jpg
+    - src: https://portfolio.andrescolubri.net/images/corral_augier_endo4.jpg
       alt: Corral and Augier's end(O) photo 4
-    - src: http://portfolio.andrescolubri.net/images/corral_augier_endo5.jpg
+    - src: https://portfolio.andrescolubri.net/images/corral_augier_endo5.jpg
       alt: Corral and Augier's end(O) photo 5      
-    - src: http://portfolio.andrescolubri.net/images/corral_augier_endo6.jpg
+    - src: https://portfolio.andrescolubri.net/images/corral_augier_endo6.jpg
       alt: Corral and Augier's end(O) photo 6
-    - src: http://portfolio.andrescolubri.net/images/corral_augier_endo7.jpg
+    - src: https://portfolio.andrescolubri.net/images/corral_augier_endo7.jpg
       alt: Corral and Augier's end(O) photo 7
   settings:
     height: "'auto'"
@@ -146,13 +146,13 @@
   bullets: true
   captions: false
   images:
-    - src: http://portfolio.andrescolubri.net/images/mirador-acegid-1.jpg
+    - src: https://portfolio.andrescolubri.net/images/mirador-acegid-1.jpg
       alt: ACEGID training with Mirador
-    - src: http://portfolio.andrescolubri.net/images/mirador-acegid-2.jpg
+    - src: https://portfolio.andrescolubri.net/images/mirador-acegid-2.jpg
       alt: ACEGID training with Mirdor
-    - src: http://portfolio.andrescolubri.net/images/mirador-acegid-3.jpg
+    - src: https://portfolio.andrescolubri.net/images/mirador-acegid-3.jpg
       alt: ACEGID training with Mirador
-    - src: http://portfolio.andrescolubri.net/images/mirador-acegid-4.jpg
+    - src: https://portfolio.andrescolubri.net/images/mirador-acegid-4.jpg
       alt: ACEGID training with Mirador
   settings:
     height: "'auto'"
@@ -162,15 +162,15 @@
   bullets: true
   captions: true
   images:
-    - src: http://portfolio.andrescolubri.net/images/p5android-getting_started.gif
+    - src: https://portfolio.andrescolubri.net/images/p5android-getting_started.gif
       alt: Processing for Android is easy to use!
-    - src: http://portfolio.andrescolubri.net/images/p5android-wallpapers.jpg
+    - src: https://portfolio.andrescolubri.net/images/p5android-wallpapers.jpg
       alt: Live wallpaper support
-    - src: http://portfolio.andrescolubri.net/images/p5android-multidpi.jpg
+    - src: https://portfolio.andrescolubri.net/images/p5android-multidpi.jpg
       alt: Multi-DPI support
-    - src: http://portfolio.andrescolubri.net/images/p5android-watchface.jpg
+    - src: https://portfolio.andrescolubri.net/images/p5android-watchface.jpg
       alt: Interactive watchfaces
-    - src: http://portfolio.andrescolubri.net/images/p5android-vr.jpg
+    - src: https://portfolio.andrescolubri.net/images/p5android-vr.jpg
       alt: Virtual Reality (VR Audioscape by Sara Di Bartolomeo)
   settings:
     height: "'auto'"
@@ -192,13 +192,13 @@
   bullets: true
   captions: true
   images:
-    - src: http://portfolio.andrescolubri.net/images/espacio_de_datos1.jpg
+    - src: https://portfolio.andrescolubri.net/images/espacio_de_datos1.jpg
       alt: The planetarium of Buenos Aires
-    - src: http://portfolio.andrescolubri.net/images/espacio_de_datos2.jpg
+    - src: https://portfolio.andrescolubri.net/images/espacio_de_datos2.jpg
       alt: Audiences waiting for the show to start
-    - src: http://portfolio.andrescolubri.net/images/espacio_de_datos3.jpg
+    - src: https://portfolio.andrescolubri.net/images/espacio_de_datos3.jpg
       alt: Inside the planetarium
-    - src: http://portfolio.andrescolubri.net/images/espacio_de_datos4.jpg
+    - src: https://portfolio.andrescolubri.net/images/espacio_de_datos4.jpg
       alt: Fulldome program
   settings:
     height: "'auto'"
@@ -208,19 +208,19 @@
   bullets: true
   captions: true
   images:
-    - src: http://portfolio.andrescolubri.net/images/visor-colecciones-flow.jpg
+    - src: https://portfolio.andrescolubri.net/images/visor-colecciones-flow.jpg
       alt: Inital flow screen
-    - src: http://portfolio.andrescolubri.net/images/visor-colecciones-selection.jpg
+    - src: https://portfolio.andrescolubri.net/images/visor-colecciones-selection.jpg
       alt: Main screen after selecting a document or collection
-    - src: http://portfolio.andrescolubri.net/images/visor-colecciones-path.jpg
+    - src: https://portfolio.andrescolubri.net/images/visor-colecciones-path.jpg
       alt: Building a path through related connections
-    - src: http://portfolio.andrescolubri.net/images/visor-colecciones-info.jpg
+    - src: https://portfolio.andrescolubri.net/images/visor-colecciones-info.jpg
       alt: Showing information for selected collection
-    - src: http://portfolio.andrescolubri.net/images/visor-colecciones-edge.jpg
+    - src: https://portfolio.andrescolubri.net/images/visor-colecciones-edge.jpg
       alt: Common tags connecting two collections
-    - src: http://portfolio.andrescolubri.net/images/visor-colecciones-menu.jpg
+    - src: https://portfolio.andrescolubri.net/images/visor-colecciones-menu.jpg
       alt: Menu with filter options
-    - src: http://portfolio.andrescolubri.net/images/visor-colecciones-search.jpg
+    - src: https://portfolio.andrescolubri.net/images/visor-colecciones-search.jpg
       alt: Search results
   settings:
     height: "'auto'"
@@ -231,7 +231,7 @@
   captions: true
   images:
     - src: /assets/posts/colecciones_especiales/histography.jpg
-      alt: A timeline of history - http://histography.io/
+      alt: A timeline of history - https://histography.io/
     - src: /assets/posts/colecciones_especiales/wdl-timelines.jpg
       alt: World Digital Library Timelines - https://www.wdl.org/en/timelines/
     - src: /assets/posts/colecciones_especiales/blog-calendar.jpg
