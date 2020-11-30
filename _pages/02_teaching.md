@@ -10,7 +10,7 @@ I have taught courses in biology and bioinformatics, and mentored students durin
 
 <ul>
 {% for course in site.sciteaching reversed %}
-  <li><a href="{{ course.url | prepend: site.baseurl }}">{{ course.title }}</a>:
+  <li><a href="{{ course.url | prepend: site.baseurl }}.html">{{ course.title }}</a>:
   {{ course.description }}</li><br>
 {% endfor %}    
 </ul>
@@ -21,7 +21,7 @@ I have also taught some workshops on art and code:
 
 <ul>
 {% for course in site.artteaching reversed %}
-  <li><a href="{{ course.url | prepend: site.baseurl }}">{{ course.title }}</a>:
+  <li><a href="{{ course.url | prepend: site.baseurl }}.html">{{ course.title }}</a>:
   {{ course.description }}</li><br>
 {% endfor %}    
 </ul>

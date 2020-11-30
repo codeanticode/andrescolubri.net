@@ -8,7 +8,7 @@ permalink: /publications/
 
 <ul>
 {% for pub in site.artpublications reversed %}
-  <li><a href="{{ pub.url | prepend: site.baseurl }}">{{ pub.title }}</a>. {{ pub.authors }}.
+  <li><a href="{{ pub.url | prepend: site.baseurl }}.html">{{ pub.title }}</a>. {{ pub.authors }}.
   <i>{{ pub.journal }}</i>. {{ pub.info }}.</li><br>
 {% endfor %}    
 </ul>
@@ -18,7 +18,7 @@ permalink: /publications/
 
 <ul>
 {% for pub in site.scipublications reversed %}
-  <li><a href="{{ pub.url | prepend: site.baseurl }}">{{ pub.title }}</a>. {{ pub.authors }}.
+  <li><a href="{{ pub.url | prepend: site.baseurl }}.html">{{ pub.title }}</a>. {{ pub.authors }}.
   <i>{{ pub.journal }}</i>. {{ pub.info }}.</li><br>
 {% endfor %}    
 </ul>
