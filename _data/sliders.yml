@@ -340,5 +340,30 @@
     height: "'auto'"
     effect: "'fade'"
 
+- selector: oasis_events_2021
+  bullets: true
+  captions: true
+  images:
+    - src: https://portfolio.andrescolubri.net/images/oasis-0-opening-flyer.jpg
+      alt: Flyer of first virtual OASIS event
+    - src: https://portfolio.andrescolubri.net/images/oasis-1-opening-collage.jpg
+      alt: Scenes from first virtual OASIS event
+    - src: https://portfolio.andrescolubri.net/images/oasis-2-alas-oOps-flyer.jpg
+      alt: Flyer for oOps.50656 performance in hybrid OASIS event
+    - src: https://portfolio.andrescolubri.net/images/oasis-3-alas-oOps-live.jpg
+      alt: oOps.50656 performing live during hybrid OASIS event
+    - src: https://portfolio.andrescolubri.net/images/oasis-4-alas-hybrid.jpg
+      alt: Attendants of hybrid OASIS event meeting in Hubs
+    - src: https://portfolio.andrescolubri.net/images/oasis-5-rodneys-flyer.jpg
+      alt: Flyer of Turning the Page screening in OASIS
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
     
+
+
+
+
+
 
