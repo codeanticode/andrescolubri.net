@@ -17,14 +17,14 @@ Our original motivation for OASIS was creating a tool to facilitate interactions
 
 ## Virtual spaces and events
 
-After a process of design and development that started in 2018 and picked up momentum in 2019, our plans included a first local pilot in Cambridge in early 2020. The COVID-19 pandemic derailed these plans, and we had to put the project on hold for a while. By the end of 2020, we started exploring online platforms for virtual art events, and we resumed work on OASIS with a focus on supporting [Mozilla Hubs](hubs.mozilla.com/){:target="_blank"} and [Gather Town](https://www.gather.town/){:target="_blank"}. Throughout 2021, and thanks to the help of Emily Ottinger and Liz Pasekal, we organized a series of virtual and hybrid events involving artists from the Cambridge community and beyond:
+After a process of design and development that started in 2018 and picked up momentum in 2019, our plans included a first local pilot in Cambridge in early 2020. The COVID-19 pandemic derailed these plans, and we had to put the project on hold for a while. By the end of 2020, we started exploring online platforms for virtual art events, and we resumed work on OASIS with a focus on supporting [Mozilla Hubs](https://hubs.mozilla.com/){:target="_blank"} and [Gather Town](https://www.gather.town/){:target="_blank"}. Throughout 2021, and thanks to the help of Emily Ottinger and Liz Pasekal, we organized a series of virtual and hybrid events involving artists from the Cambridge community and beyond:
 
 {% include slider.html selector="oasis_events_2021" %}
 *Images from virtual and hybrid OASIS events in 2021.*
 
 ## A learning experience
 
-Although embarking ourselves in a platform-building endeavour it's a very challenging proposition -not only because of the tech development but also, and perhaps more importantly, the community building component- we learned so much from this experience. And if anything else, we ended up creating a platform that it's truly independent and that we can use in our own community, adapted to our own specific needs. If it's useful to us, maybe it will be useful to others. And of course, it's [open source](github.com/oasis-art-project){:target="_blank"} :-)
+Although embarking ourselves in a platform-building endeavour it's a very challenging proposition -not only because of the tech development but also, and perhaps more importantly, the community building component- we learned so much from this experience. And if anything else, we ended up creating a platform that it's truly independent and that we can use in our own community, adapted to our own specific needs. If it's useful to us, maybe it will be useful to others. And of course, it's [open source](https://github.com/oasis-art-project){:target="_blank"} :-)
 
 ## Thanks to your supporters!
 
