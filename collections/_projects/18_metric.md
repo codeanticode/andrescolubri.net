@@ -17,6 +17,6 @@ distance to reflect changes effected through the UI, like sorting variables or f
 Different users will explore the same data sets in different ways, which would lead to different search paths, so this visualization could reveal those differences.
 It probably also shows the biases built into Mirador's UI that could be constraining the users to search within certain regions of the entire data space:
 
-<img width="1000" src="https://portfolio.andrescolubri.net/images/search-patterns.png" style="background:none; border:none; box-shadow:none"/>
+<img width="1000" src="/assets/images/search-patterns.png" style="background:none; border:none; box-shadow:none"/>
 
 This work was shown as a print piece in the +Code group show, at the San Martin Cultural Center (Argentina) in 2015.

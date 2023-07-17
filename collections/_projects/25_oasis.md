@@ -10,7 +10,7 @@ image_sliders:
 
 OASIS is an independent open-source art platform designed to connect artists with space providers and audiences in the local communities. I was initially conceptualized by Jihyun Kim and I. The goals of this platform are (1) to make more spaces available to artists to show their work, (2) to give space providers a unique channel to announce the availability of their spaces and the type of work they are looking for, and (3) to provide audiences the means to find and experience the artworks currently on display and to connect with local creators. The OASIS webapp was developed by [Carlos Cruz](https://www.carcruz.dev/){:target="_blank"}, and it is live at [oasis.art](https://oasis.art){:target="_blank"}.
 
-<img img width="800" src="https://portfolio.andrescolubri.net/images/oasis-events-page.jpg" style="background:none; border:none; box-shadow:none">
+<img img width="800" src="/assets/images/oasis-events-page.jpg" style="background:none; border:none; box-shadow:none">
 *Event listing in the OASIS webapp.*
 
 Our original motivation for OASIS was creating a tool to facilitate interactions between artists, hosts, and audiences at the interface between online and local communities. While developing OASIS, we considered non-traditional spaces that could support art activities throughout the Boston area (e.g., shops, storefronts, abandoned/vacant buildings), and how to facilitate the discovery of those spaces by the local audiences. For us, this was a very important aspect of OASIS; even though a significant amount of energy was put in the development of the technolgy behind OASIS, we saw this project primarily as an opportunity for dialog, interaction, and creation within our communities.

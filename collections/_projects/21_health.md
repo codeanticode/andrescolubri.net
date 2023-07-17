@@ -16,7 +16,7 @@ I have worked in different aspects of this larger project:
 
 Clinical guidelines are important to ensure that patients receive the proper supportive care. Often times these guidelines are made available as documents containing dozens or even [hundred of pages](https://www.who.int/csr/resources/publications/clinical-management-patients/en/){:target="_blank"}. In the context of an infectious disease outbreak, particularly in a resource-constrained region, these materials are not the best way for health care workers to adhere to the protocols and for new personnel to be properly trained. I have developed a mobile app that encapsulates prognosis models for Ebola Virus Disease, generated from data collected during the 2014-16 outbreak in West Africa. The predictions of these models are used to prioritize interventions depending on how much they would reduce illness severity. This app can be easily updated to incorporate better models, or even recommendations pertaining to other viral hemorrhagic fevers. The preprint of the paper describing this work is available on [bioRxiv](https://biorxiv.org/cgi/content/short/294587){:target="_blank"}.
 
-<img img width="800" src="https://portfolio.andrescolubri.net/images/ebolarisk.jpg" style="background:none; border:none; box-shadow:none">
+<img img width="800" src="/assets/images/ebolarisk.jpg" style="background:none; border:none; box-shadow:none">
 *Screenshots of the prototype app that provides clinical guidelines for Ebola patients.*
 
 ### Modeling clinical metadata to understand manifestations of disease

@@ -12,4 +12,4 @@ The Processing programming language and environment is an open source project in
 
 After a long alpha stage, Processing 1.0 was finally released in 2008. With an increased focus on 3D and video performance, the version 2.0 has been in development during the past two years, and recently reached the beta stage.
 
-[Full text](https://portfolio.andrescolubri.net/articles/siggraph2012_processing2_colubri_fry.pdf){:target="_blank"}
+[Full text](/assets/articles/siggraph2012_processing2_colubri_fry.pdf){:target="_blank"}

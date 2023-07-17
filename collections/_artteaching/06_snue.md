@@ -11,7 +11,7 @@ During this workshop for undergraduate students at the [Seoul National Universit
 
 Follow the links below to access the materials discussed during the workshop: 
 
-* [Presentation slides](https://portfolio.andrescolubri.net/presentations/xr-slides-snue-2019.zip)
+* [Presentation slides](/assets/presentations/xr-slides-snue-2019.zip)
 * [Intro to VR tutorial](https://android.processing.org/tutorials/vr_intro/index.html){:target="_blank"}
 * [Advanced VR tutorial](https://android.processing.org/tutorials/vr_advanced/index.html){:target="_blank"}
 * [Intro to AR tutorial](https://android.processing.org/tutorials/ar_intro/index.html){:target="_blank"}

@@ -16,7 +16,7 @@ posters could be "annotated" by users of the app, who were able to write text in
 This project was conducted in collaboration with [Jihun Kim](https://cargocollective.com/jihyunkim){:target="_blank"} and [Terrence Fradet](https://tfradet.com/){:target="_blank"},
 and won the first price at the AT&T Mobile Hackathon at MIT in 2012.
 
-Relay is a result of [ideas developed originally with Jihyun](https://portfolio.andrescolubri.net/articles/isea2010_proceedings_itch_kim_colubri.pdf){:target="_blank"}
+Relay is a result of [ideas developed originally with Jihyun](/assets/articles/isea2010_proceedings_itch_kim_colubri.pdf){:target="_blank"}
 about the community appropriation and repurposing of mobile technologies in order to enable creative uses of these technologies.
 My current work in [Processing for Android](https://android.processing.org/){:target="_blank"} tries to continue with those original aims, by providing tools for mobile
 development that could lead to new and unexpected uses of Android devices.
